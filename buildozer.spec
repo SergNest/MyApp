@@ -1,3 +1,4 @@
+[app]
 
 # (str) Title of your application
 title = Mobile App 001
